@@ -17,6 +17,12 @@ My algorithm focuses on establishing territory early in the game. It is spreads 
 
 How the player calculates the best move is by determining the move that allows it to spread the greatest distance. As such, even if the opponent has created density within a part of the map, the algorithm remains ambivalent and creates the barrier around the opponent.
 
+![Start](https://raw.githubusercontent.com/mgia/filler/master/img/start.png)
+
+![Game](https://raw.githubusercontent.com/mgia/filler/master/img/game.png)
+
+For instance, in this game, my player cuts off the left side of the map, creating a foothold on majority of the map, optimizing its chance to win.
+
 ## Installation
 
 `make`
