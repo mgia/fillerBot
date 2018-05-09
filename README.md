@@ -33,7 +33,7 @@ Standard mode :
 `./filler_vm -f [map] -p1 [player1] -p2 [player2]`
 
 Example from the root folder : 
-`resources/./filler_vm -f resources/maps/map02 -p1 ./mtan.filler -p2 resources/players/superjeannot.filler
+`resources/./filler_vm -f resources/maps/map00 -p1 ./mtan.filler -p2 resources/players/superjeannot.filler
 
 ## Final Mark
 
